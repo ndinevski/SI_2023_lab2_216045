@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-29T22:41:19" hostname="DESKTOP-DILS36L" time="0.012">
+<testsuite name="org.example.SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-29T23:59:24" hostname="DESKTOP-DILS36L" time="0.014">
   <properties/>
-  <testcase name="everyBranchTest()" classname="org.example.SILab2Test" time="0.01"/>
-  <testcase name="multipleConditionTest()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="everyBranchTest()" classname="org.example.SILab2Test" time="0.012"/>
+  <testcase name="multipleConditionTest()" classname="org.example.SILab2Test" time="0.002"/>
   <system-out><![CDATA[Start Testing
 Running EVERY BRANCH test!
+Running MULTIPLE CONDITION test!
 End Testing
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
