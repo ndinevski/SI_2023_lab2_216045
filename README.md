@@ -25,4 +25,4 @@
      ![image](https://github.com/ndinevski/SI_2023_lab2_216045/assets/61565298/509df6a7-7065-4c23-9d26-df168649516a)
      ![image](https://github.com/ndinevski/SI_2023_lab2_216045/assets/61565298/64fcb264-d44b-4629-9c7f-4fe0acfd34aa)
      
-# Директориумот од Gradle build-от се наоѓа во овој истиот репозиториум (https://github.com/ndinevski/SI_2023_lab2_216045/tree/main/SI_lab2_216045)
+# Директориумот од Gradle build-от се наоѓа во овој односно  истиот репозиториум (https://github.com/ndinevski/SI_2023_lab2_216045/tree/main/SI_lab2_216045)
