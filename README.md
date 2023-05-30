@@ -13,6 +13,7 @@
 <img width="529" alt="everybranch" src="https://github.com/ndinevski/SI_2023_lab2_216045/assets/61565298/10837363-0285-47c0-8287-29337e167013">
 
 5. Можни се 4 случаи за условот претставени на табелата подолу.
+
 ![multiplecase](https://github.com/ndinevski/SI_2023_lab2_216045/assets/61565298/436e5507-0e16-4485-b90c-b59440abebc7)
 
 6. Објаснување за unit tests:
